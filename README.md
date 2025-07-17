@@ -9,7 +9,7 @@ ML Model Integration: Developed a content-based recommendation engine using tech
 
 Backend with Python: Built the backend logic using Python and served the recommendation model via a local API.
 
-Frontend with Streamlit (or specify if it’s HTML/CSS/JS): Created a simple and interactive user interface where users can search a movie and view the top 5 recommended movies.
+Frontend with Streamlit (or specify if it’s HTML/CSS/JS): Created a simple and interactive user interface where users can search for a movie and view the top 5 recommended movies.
 
 API Integration: Integrated The Movie Database (TMDb) API to fetch movie posters and metadata dynamically.
 

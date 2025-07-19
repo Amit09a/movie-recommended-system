@@ -34,5 +34,5 @@ Users can enter a movie name and get a visually rich list of similar movies reco
 
 Demo
 
-http://localhost:8501/
+https://movie-recommended-system-first.streamlit.app/
 
